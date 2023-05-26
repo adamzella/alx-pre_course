@@ -1,1 +1,1 @@
-My first readme as an ALX SwE Kigali
+My first readme as an ALX SwE 
